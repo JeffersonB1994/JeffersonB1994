@@ -1,7 +1,5 @@
 ## 👨‍💻 Jefferson 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🚀 Em transição de carreira para Tecnologia da Informação com foco em Análise de Dados.
-
-🔎 Explorando Python, SQL e Power BI para transformar dados em insights.
-
-🤝 Apaixonado por aprender, colaborar e criar soluções que gerem valor real.
+🚀 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Desenvolvimento Fullstack
+💡 Explorando JavaScript, React, Node.js e SQL para criar aplicações completas
+🤝 Apaixonado por aprender, colaborar e construir soluções que gerem impacto
