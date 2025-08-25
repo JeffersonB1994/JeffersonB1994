@@ -12,7 +12,7 @@
 ---
 
 ## 📫 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/l-dos-santos-746900181/)
+- [LinkedIn](https://www.linkedin.com/in/jefferson-dos-santos-746900181/)
 
 ---
 
